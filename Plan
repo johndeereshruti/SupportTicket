@@ -1,0 +1,4 @@
+Here is a rough plan:
+1. User files a support ticket.
+2. Intake triage: create github issue, assign owner
+3. Technical triage: use matk and stak for issue triage and suggested fixes
